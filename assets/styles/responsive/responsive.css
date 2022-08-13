@@ -35,6 +35,10 @@
         grid-template-columns: 6fr 6fr !important;
     }
 
+    .member-5{
+        margin-top: 0 !important;
+    }
+    
     .team-members .member:nth-child(3n+2){
         margin-top: unset;
     }
