@@ -1,4 +1,16 @@
 @font-face {
     font-family: Montserrat;
-    src: url('../fonts/Montserrat/static/Montserrat-Medium.ttf');
+    src: url('../fonts/Montserrat/static/Montserrat-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url('../fonts/Poppins/Poppins-Regular.ttf'), 
+    url('../fonts/Poppins/Poppins-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: PT_Serif;
+    src: url('../fonts/PT_Serif/PTSerif-Regular.ttf'), 
+    url('../fonts/PT_Serif/PTSerif-Bold.ttf') format('truetype');
 }

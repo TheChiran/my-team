@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://thechiran.github.io/my-gallery-dev-challenges/">
+    <a href="https://my-team-sandy.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/TheChiran/my-gallery-dev-challenges">
+    <a href="https://github.com/TheChiran/my-team">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U#">
       Challenge
     </a>
   </h3>
